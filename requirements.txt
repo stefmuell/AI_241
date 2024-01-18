@@ -5,7 +5,7 @@ openai
 nltk
 tqdm
 gpt-index
-langchain
+langchain-community
 streamlit-chat
 stop-words
 Pillow
