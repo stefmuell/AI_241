@@ -10,7 +10,7 @@
 - [Acknowledgments](#acknowledgments)
   
 # Introduction
-  This is a sample set of code from my 'Innovation CoPilot', which I built for the Innovation practice area of the Boston Consulting Group. 
+  This is a sample set of code copies from the 'Innovation CoPilot', which had been built for the Innovation practice area of the a consulting firm. 
   Much of the code has been redacted and simplified in order to provide a simple 'starter' chatbot from which you can build a more complex chatbot for your use case!
   
   The full article with additional details and context can be found here: https://medium.com/@gbouslov/from-zero-to-genai-chatbot-hero-29b1f45f6542
