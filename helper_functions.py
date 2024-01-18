@@ -1,7 +1,7 @@
 # Third-Party Imports
 import streamlit as st
 import openai
-import langchain
+import langchain-community
 from index_functions import load_data
 from llama_index import VectorStoreIndex, ServiceContext, Document
 from llama_index.llms import OpenAI
