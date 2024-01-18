@@ -7,7 +7,13 @@ import requests
 
 # Third-Party Imports
 import streamlit as st
-import langchain
+from langchain_community.chat_models import ChatAnyscale
+from langchain_community.chat_models import ChatOpenAI
+from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+from langchain_community.llms import AI21
+from langchain_community.llms import Cohere
+from langchain_community.llms import FakeListLLM
+from langchain_community.llms import OpenAI
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import word_tokenize
